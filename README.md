@@ -1,4 +1,4 @@
 ### 404Page
 
-See Project Online : 
+View the project online : 
 https://harmonious-paprenjak-bf8431.netlify.app/
